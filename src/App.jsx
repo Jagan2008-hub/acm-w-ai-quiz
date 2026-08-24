@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { supabase } from "./supabase";
 import "./App.css";
 
-const QUIZ_TIME = 180;
+const QUIZ_TIME = 600;
 const MAX_ATTEMPTS = 3;
 
 function shuffle(array) {

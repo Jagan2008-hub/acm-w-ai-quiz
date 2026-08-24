@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/acm-w-ai-quiz/',
+  base: '/acm-w-ai-quiz/'
 })
