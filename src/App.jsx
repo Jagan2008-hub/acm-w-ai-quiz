@@ -580,7 +580,7 @@ function App() {
               </div>
 
               <div>
-                <strong>03:00</strong>
+                <strong>10:00</strong>
                 <span>Time Limit</span>
               </div>
 
